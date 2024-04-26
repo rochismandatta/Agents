@@ -19,36 +19,39 @@ Installation
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/crewai-agents.git
-cd crewai-agents
+git clone https://github.com/rochismandatta/Agents.git
+cd Agents
+```
 Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 Set up the environment variables:
 Create a .env file in the project root and add your Groq API key:
 
 GROQ_API_KEY=your-api-key
-Usage
+### Usage
 Run the Streamlit application:
 streamlit run app.py
 Open your web browser and navigate to http://localhost:8501. Enter your input in the text area and click the "Start Research" button. The AI agents will work together to generate a comprehensive report based on your input.
 
-AI Agents
-Researcher Agent
+## AI Agents
+### Researcher Agent
 Role: Senior research analyst
 Goal: Conduct comprehensive analysis and provide strategic insights
-Consultant Agent
+### Consultant Agent
 Role: Business Angel and venture capital consultant
 Goal: Provide funding, mentorship, and strategic guidance to startups
-Author Agent
+### Author Agent
 Role: Tech content author
 Goal: Create high-quality content on technology topics
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 Groq API for providing the AI capabilities
 DuckDuckGo for the search functionality
 Streamlit for the web application framework
