@@ -1,0 +1,15 @@
+# Ignore the .conda directory
+.conda/
+
+# Ignore the __pycache__ directory
+__pycache__/
+
+# Ignore the .env file
+.env
+
+# Ignore other files and directories
+*.pyc
+*.log
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
