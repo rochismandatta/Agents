@@ -13,8 +13,8 @@ Installation
 
 Clone the repository:
 
-bashCopy codegit clone https://github.com/rochismandatta/Agents.git
-cd Agents
+bashCopy codegit clone https://github.com/your-username/crewai-agents.git
+cd crewai-agents
 
 Install the required dependencies:
 
