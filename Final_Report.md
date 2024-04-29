@@ -2,7 +2,7 @@ CrewAI Agents with Groq API
 
 ===============================
 
-Enter your input:
+Enter your input: APPLE luxury watch blue ocean strategy to compete against incumbents
 
 Start Research
 
