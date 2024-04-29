@@ -35,6 +35,9 @@ Run the Streamlit application:
 streamlit run app.py
 Open your web browser and navigate to http://localhost:8501. Enter your input in the text area and click the "Start Research" button. The AI agents will work together to generate a comprehensive report based on your input.
 
+## Notes:
+Implementation with DuckDuckGo search engine for agents.py and Bing Search engine API for rec_res.py
+
 ## AI Agents
 ### Researcher Agent
 Role: Senior research analyst
