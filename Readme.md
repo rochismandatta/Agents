@@ -30,6 +30,8 @@ Set up the environment variables:
 Create a .env file in the project root and add your Groq API key:
 
 GROQ_API_KEY=your-api-key
+BING_SUBSCRIPTION_KEY = your-subscription_key
+BING_SEARCH_URL = 'https://api.bing.microsoft.com/v7.0/search'
 ### Usage
 Run the Streamlit application:
 streamlit run app.py
