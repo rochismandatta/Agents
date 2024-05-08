@@ -39,6 +39,9 @@ Open your web browser and navigate to http://localhost:8501. Enter your input in
 
 ## Notes:
 Implementation with DuckDuckGo search engine for agents.py and Bing Search engine API for rec_res.py
+```bash
+streamlit run .\rec_res.py
+```
 
 ## AI Agents
 ### Researcher Agent
