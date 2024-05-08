@@ -1,3 +1,10 @@
 streamlit
 python-dotenv
 groq
+beautifulsoup4
+requests
+sumy
+scikit-learn
+langchain
+duckduckgo-search
+python-dotenv
